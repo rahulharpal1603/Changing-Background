@@ -1,0 +1,17 @@
+button{
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+    font-size:20px;
+}
+button:focus{
+    outline: 0;
+}
+div{
+    margin-top: 25%;
+}
+p{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
